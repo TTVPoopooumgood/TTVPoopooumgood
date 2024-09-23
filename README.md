@@ -24,3 +24,13 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,java"  alt="view counter"/>
 </div>
+<div align="center">
+<img src="https://img.shields.io/github/repo-size/Ttvpoopooumgood/Games" />
+  <div align="center">
+<img src="https://img.shields.io/github/stars/TTVpoopooumgood/Games?style=social" />
+    <div align="center">
+<img src="https://img.shields.io/github/forks/TTVPoopooumgood/Games?style=social" />
+      <div align="center">
+<img src="https://img.shields.io/twitter/follow/PoopooumgoodTTV?style=social" />
+        <div align="center">
+<img src="https://img.shields.io/youtube/views/Dababby?style=social" />
