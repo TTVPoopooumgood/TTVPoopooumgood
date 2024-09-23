@@ -20,7 +20,7 @@ TTVPoopooumgood/TTVPoopooumgood is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 ...
 --->
-## Languages 
+## Stuffs
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,java"  alt="view counter"/>
 </div>
