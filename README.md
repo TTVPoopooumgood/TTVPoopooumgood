@@ -34,3 +34,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/twitter/follow/PoopooumgoodTTV?style=social" />
         <div align="center">
 <img src="https://img.shields.io/youtube/views/Dababby?style=social" />
+          
+## other Bages
+[![An image of @ttvpoopooumgood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ttvpoopooumgood)](https://holopin.io/@ttvpoopooumgood)
